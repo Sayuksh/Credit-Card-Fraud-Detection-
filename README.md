@@ -73,7 +73,7 @@ The project pipeline can be briefly summarized in the following four steps:
     - Specificity = 0.99
     - F-1 Score = 0.75
     - ROC-AUC = 0.96
-## Balanced
+## Balanced Model
 ## Undersampling
 ### Logistic Regression
 ***Model summary***
